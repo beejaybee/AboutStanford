@@ -1,0 +1,152 @@
+body{
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+    margin: 0;
+}
+.navbar{
+    background-color: #b1040e
+}
+.navbar-brand{
+    color: #fff;
+    display: inline-block;
+    line-height: 1.25em;
+    font-size: 1.55em;
+    font-weight: 400;
+    margin-left: 20px;
+    text-decoration: none;
+    
+}
+ul{
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    right: 20px;
+    top: 8px;
+
+}
+.menu li a{
+    list-style-type: none;
+    text-decoration: none;
+    color:#fff;
+    padding: 10px 13.5px;
+    margin-right: 10px;
+    font-weight: 500;
+    outline-offset: -4px;
+    text-align: center;
+
+    
+}
+.nav-btn{
+    background-color: #b1040e;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+ 
+}
+span{
+    margin-left: 10px;
+}
+.nav2{
+    box-shadow: 5px 3px rgb(211, 194, 194);
+}
+.nav2 li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 13.5px;
+}
+
+.nav2 li a{
+    text-decoration: none;
+    color: rgb(41, 40, 40);
+    font-weight: bold;
+}
+.nav2 li a:hover{
+    color: #b1040e;
+    text-decoration-line: underline;
+    text-decoration-color: #b1040e;
+    text-decoration-style:   solid;
+    
+}
+.size{
+    color: #000;
+    font-size: 50px;
+    font-weight: 900;
+    padding-top: 50px;
+    font-family: sans-serif;
+}
+.col p{
+    word-spacing: 1px;
+    line-height: 25px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.firstimg{
+    width: 98%;
+    border-bottom: 1px solid silver;
+    padding-bottom: 80px;
+}
+#location{
+    border-bottom: 1px solid silver;
+}
+
+#pres{
+    width: 100%;
+}
+    
+#overlap{
+    background-color: rgb(32, 23, 24);
+} 
+#increase{
+    width: 500px;
+    
+}
+
+#behere {
+    width: 95%;
+    height: 100%;
+}
+
+.positImage{
+    position: relative;
+    top: 40px;
+    right: 50px;
+}
+#weather{
+    width: 100%;
+    offset: -1
+}
+#links ul{
+    list-style-type: none;
+    padding: 20px;
+}
+#links ul li button{
+    margin: 10px;
+    width: 100px;
+}
+footer{
+    background: #b1040e;
+}
+#footer h3{
+    color: #fff;
+
+}
+#footer div a{
+    padding: 15px;
+    margin-left: 15px;
+}
+@media screen and (min-width:576px){
+
+}
+@media screen and (min-width:768px){
+    
+}
+@media screen and (min-width:992px){
+    
+}
+@media screen and (min-width:1200px){
+    
+}
